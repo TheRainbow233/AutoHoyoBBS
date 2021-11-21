@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": "1",
+    "forumId": "1",
+    "name": "崩坏3",
+    "url": "https://bbs.mihoyo.com/bh3/"
+  },
+  "2": {
+    "id": "2",
+    "forumId": "26",
+    "name": "原神",
+    "url": "https://bbs.mihoyo.com/ys/"
+  },
+  "3": {
+    "id": "3",
+    "forumId": "30",
+    "name": "崩坏2",
+    "url": "https://bbs.mihoyo.com/bh2/"
+  },
+  "4": {
+    "id": "4",
+    "forumId": "37",
+    "name": "未定事件簿",
+    "url": "https://bbs.mihoyo.com/wd/"
+  },
+  "5": {
+    "id": "5",
+    "forumId": "34",
+    "name": "大别野",
+    "url": "https://bbs.mihoyo.com/dby/"
+  },
+  "6": {
+    "id": "6",
+    "forumId": "52",
+    "name": "崩坏：星穹铁道",
+    "url": "https://bbs.mihoyo.com/sr/"
+  }
+}
